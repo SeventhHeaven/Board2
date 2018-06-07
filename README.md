@@ -1,7 +1,7 @@
 # Board2
 Getting Started Programming Series 2
 
-「プログラム事始め」シリーズ　その2です。
+「プログラム事始め」シリーズ　その2です。  
 C言語です。
 
 その1「Board1」の main 関数だけ変えただけです。  
